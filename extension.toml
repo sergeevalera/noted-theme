@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["sergeevav"]
 description = "Verdant Garden — a prose-optimized dark/light theme for Markdown editing in Zed. Companion theme for the Noted extension."
-repository = "https://github.com/sergeevav/noted-theme"
+repository = "https://github.com/sergeevalera/noted-theme"
