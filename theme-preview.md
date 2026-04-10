@@ -30,8 +30,8 @@ $math expression$ renders in bright green italic.
 
 ## Links
 
-[[wikilink to existing note]] renders in teal.
-[[broken-wikilink]] renders in red.
+[[existing-link]] renders in teal.
+[[broken-link]] renders in red.
 
 [link text](https://example.com) — text part is teal, URI is italic teal.
 
